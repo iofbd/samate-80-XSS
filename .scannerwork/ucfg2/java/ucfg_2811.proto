@@ -1,0 +1,22 @@
+
+ªtestcases.CWE80_XSS.s01.CWE80_XSS__Servlet_connect_tcp_42#goodG2BSource(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Ljava/lang/String;{
+q/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_connect_tcp_42.javau u( "1*ó
+1{
+q/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_connect_tcp_42.javaw w(¨
+¥
+{
+q/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_connect_tcp_42.javaw w(
+datajava.lang.String"__id*
+""©
+¦
+{
+q/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_connect_tcp_42.javaz z(
+datajava.lang.String"__id*
+foo"™
+{
+q/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_connect_tcp_42.java| |(
+
+datajava.lang.String:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseB=;
+9testcases.CWE80_XSS.s01.CWE80_XSS__Servlet_connect_tcp_42

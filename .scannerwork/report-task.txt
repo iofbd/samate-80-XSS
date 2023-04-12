@@ -1,0 +1,7 @@
+organization=ramil4icr
+projectKey=XSS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.15878
+dashboardUrl=https://sonarcloud.io/dashboard?id=XSS
+ceTaskId=AXaOsdfFhpUaZrsDaxyo
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXaOsdfFhpUaZrsDaxyo

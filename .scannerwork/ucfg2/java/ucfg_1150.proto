@@ -1,0 +1,22 @@
+
+©testcases.CWE80_XSS.s01.CWE80_XSS__Servlet_listen_tcp_42#goodG2BSource(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Ljava/lang/String;|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_42.java„ „( "1*÷
+1|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_42.java† †(©
+¦
+|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_42.java† †(
+datajava.lang.String"__id*
+""ª
+§
+|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_42.java‰ ‰(
+datajava.lang.String"__id*
+foo"š
+|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_42.java‹ ‹(
+
+datajava.lang.String:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseB<:
+8testcases.CWE80_XSS.s01.CWE80_XSS__Servlet_listen_tcp_42

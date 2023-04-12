@@ -1,0 +1,37 @@
+
+Ætestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_21#goodG2B2_source(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Ljava/lang/String;
+s/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/CWE80_XSS__Servlet_URLConnection_21.java± ±(""4*∏
+2
+s/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/CWE80_XSS__Servlet_URLConnection_21.javaæ æ(¨
+©
+
+s/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/CWE80_XSS__Servlet_URLConnection_21.javaæ æ(
+datajava.lang.String"__id*
+""*
+1*π
+3
+s/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/CWE80_XSS__Servlet_URLConnection_21.java∏ ∏(≠
+™
+
+s/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/CWE80_XSS__Servlet_URLConnection_21.java∏ ∏(
+datajava.lang.String"__id*
+foo*
+1*ª
+4
+s/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/CWE80_XSS__Servlet_URLConnection_21.java≥ ≥(¨
+©
+
+s/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/CWE80_XSS__Servlet_URLConnection_21.java≥ ≥(
+datajava.lang.String"__id*
+""*
+2
+3*§
+1
+s/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/CWE80_XSS__Servlet_URLConnection_21.java¡ ¡("ù
+
+s/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/CWE80_XSS__Servlet_URLConnection_21.java¡ ¡(
+
+datajava.lang.String:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseB?=
+;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_21

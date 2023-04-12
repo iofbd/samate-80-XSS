@@ -1,0 +1,1789 @@
+
+testcases.CWE80_XSS.s02.ServletMain#doGetCWE8(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Vg
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java“ “("158*Ì
+68g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÇ Ç(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÇ Ç(DD
+%135<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_10"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_10Ñ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÇ Ç(F
+%136"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_10#<init>()V*F
+D
+%135<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_10*
+67*Ä
+69g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÅP Å(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÅ Å(b
+%134void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%132<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_12*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+68*Ì
+70g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÅ Å(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÅ Å(DD
+%132<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_12"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_12Ñ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÅ Å(F
+%133"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_12#<init>()V*F
+D
+%132<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_12*
+69*Å
+71g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÄQ Ä(Xãà
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÄ Ä(c
+%131void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*G
+E
+%129=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_61a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+70*Ò
+72g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÄ Ä(GÚÔ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÄ Ä(EE
+%129=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_61a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_61aÜ
+É
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÄ Ä(G
+%130"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_61a#<init>()V*G
+E
+%129=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_61a*
+71*Ä
+73g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaˇP ˇ(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaˇ ˇ(b
+%128void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%126<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_13*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+72*Ì
+74g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaˇ ˇ(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaˇ ˇ(DD
+%126<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_13"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_13Ñ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaˇ ˇ(F
+%127"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_13#<init>()V*F
+D
+%126<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_13*
+73*Ä
+75g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˛P ˛(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˛ ˛(b
+%125void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%123<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_11*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+74*Ì
+76g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˛ ˛(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˛ ˛(DD
+%123<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_11"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_11Ñ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˛ ˛(F
+%124"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_11#<init>()V*F
+D
+%123<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_11*
+75*Å
+77g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˝Q ˝(Xãà
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˝ ˝(c
+%122void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*G
+E
+%120=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_68a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+76*Ò
+78g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˝ ˝(GÚÔ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˝ ˝(EE
+%120=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_68a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_68aÜ
+É
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˝ ˝(G
+%121"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_68a#<init>()V*G
+E
+%120=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_68a*
+77*ˇ
+79g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java¸O ¸(VâÜ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java¸ ¸(a
+%119void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%117;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_01*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+78*Î
+100g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÚ Ú(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÚ Ú(DC
+%87<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_05"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_05Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÚ Ú(F
+%88"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_05#<init>()V*E
+C
+%87<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_05*
+99*Ä
+101g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÒP Ò(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÒ Ò(b
+%86void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%84<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_02*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+100*Ï
+102g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÒ Ò(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÒ Ò(DC
+%84<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_02"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_02Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÒ Ò(F
+%85"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_02#<init>()V*E
+C
+%84<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_02*
+101*Ä
+103g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaP (WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java (b
+%83void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%81<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_16*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+102*Ï
+104g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java (FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java (DC
+%81<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_16"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_16Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java (F
+%82"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_16#<init>()V*E
+C
+%81<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_16*
+103*Ä
+105g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÔP Ô(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÔ Ô(b
+%80void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%78<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_08*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+104*Ï
+106g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÔ Ô(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÔ Ô(DC
+%78<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_08"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_08Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÔ Ô(F
+%79"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_08#<init>()V*E
+C
+%78<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_08*
+105*Ä
+107g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÓP Ó(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÓ Ó(b
+%77void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%75<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_72a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+106*È
+80g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java¸ ¸(EÓÎ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java¸ ¸(CC
+%117;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_01";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_01Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java¸ ¸(E
+%118"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_01#<init>()V*E
+C
+%117;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_01*
+79*Ï
+108g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÓ Ó(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÓ Ó(DC
+%75<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_72a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_72aÇ
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÓ Ó(F
+%76"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_72a#<init>()V*E
+C
+%75<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_72a*
+107*Å
+81g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˚Q ˚(Xãà
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˚ ˚(c
+%116void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*G
+E
+%114=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_73a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+80*ˇ
+109g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÌO Ì(VáÑ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÌ Ì(a
+%74void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%72;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_03*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+108*Ò
+82g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˚ ˚(GÚÔ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˚ ˚(EE
+%114=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_73a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_73aÜ
+É
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˚ ˚(G
+%115"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_73a#<init>()V*G
+E
+%114=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_73a*
+81*Ä
+83g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˙P ˙(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˙ ˙(b
+%113void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%111<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_68a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+82*Ì
+84g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˙ ˙(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˙ ˙(DD
+%111<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_68a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_68aÑ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˙ ˙(F
+%112"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_68a#<init>()V*F
+D
+%111<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_68a*
+83*ˇ
+85g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˘O ˘(VâÜ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˘ ˘(a
+%110void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%108;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_06*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+84*È
+86g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˘ ˘(EÓÎ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˘ ˘(CC
+%108;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_06";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_06Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˘ ˘(E
+%109"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_06#<init>()V*E
+C
+%108;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_06*
+85*Å
+87g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java¯Q ¯(Xãà
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java¯ ¯(c
+%107void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*G
+E
+%105=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_72a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+86*Ò
+88g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java¯ ¯(GÚÔ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java¯ ¯(EE
+%105=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_72a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_72aÜ
+É
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java¯ ¯(G
+%106"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_72a#<init>()V*G
+E
+%105=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_72a*
+87*ˇ
+89g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˜O ˜(VâÜ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˜ ˜(a
+%104void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%102;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_17*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+88*Ë
+110g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÌ Ì(EÌÍ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÌ Ì(CB
+%72;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_03";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_03Ä
+˝
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÌ Ì(E
+%73"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_03#<init>()V*D
+B
+%72;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_03*
+109*ˇ
+111g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÏO Ï(VáÑ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÏ Ï(a
+%71void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%69;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_10*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+110*Ë
+112g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÏ Ï(EÌÍ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÏ Ï(CB
+%69;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_10";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_10Ä
+˝
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÏ Ï(E
+%70"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_10#<init>()V*D
+B
+%69;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_10*
+111*ˇ
+113g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÎO Î(VáÑ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÎ Î(a
+%68void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%66;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_11*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+112*Ë
+114g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÎ Î(EÌÍ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÎ Î(CB
+%66;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_11";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_11Ä
+˝
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÎ Î(E
+%67"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_11#<init>()V*D
+B
+%66;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_11*
+113*ˇ
+115g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÍO Í(VáÑ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÍ Í(a
+%65void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%63;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_08*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+114*Ë
+116g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÍ Í(EÌÍ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÍ Í(CB
+%63;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_08";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_08Ä
+˝
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÍ Í(E
+%64"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_08#<init>()V*D
+B
+%63;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_08*
+115*Ä
+117g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÈP È(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÈ È(b
+%62void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%60<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_74a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+116*È
+90g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˜ ˜(EÓÎ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˜ ˜(CC
+%102;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_17";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_17Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java˜ ˜(E
+%103"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_17#<init>()V*E
+C
+%102;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_17*
+89*Ï
+118g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÈ È(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÈ È(DC
+%60<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_74a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_74aÇ
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÈ È(F
+%61"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_74a#<init>()V*E
+C
+%60<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_74a*
+117*˛
+91g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaˆO ˆ(VàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaˆ ˆ(a
+%101void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%99;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_07*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+90*ˇ
+119g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaËO Ë(VáÑ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaË Ë(a
+%59void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%57;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_09*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+118*Á
+92g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaˆ ˆ(EÌÍ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaˆ ˆ(CB
+%99;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_07";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_07Å
+˛
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaˆ ˆ(E
+%100"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_07#<init>()V*D
+B
+%99;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_07*
+91*˝
+93g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaıO ı(VáÑ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaı ı(a
+%98void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%96;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_31*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+92*Ê
+94g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaı ı(EÌÍ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaı ı(CB
+%96;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_31";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_31Ä
+˝
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaı ı(E
+%97"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_31#<init>()V*D
+B
+%96;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_31*
+93*˛
+95g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÙP Ù(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÙ Ù(b
+%95void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%93<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_54a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+94*Í
+96g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÙ Ù(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÙ Ù(DC
+%93<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_54a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_54aÇ
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÙ Ù(F
+%94"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_54a#<init>()V*E
+C
+%93<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_54a*
+95*ˇ
+97g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÛQ Û(XâÜ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÛ Û(c
+%92void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%90=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_75a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+96*Ó
+98g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÛ Û(GÒÓ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÛ Û(ED
+%90=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_75a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_75aÑ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÛ Û(G
+%91"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_75a#<init>()V*F
+D
+%90=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_75a*
+97*˛
+99g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÚP Ú(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÚ Ú(b
+%89void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%87<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_05*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+98*Ä
+11g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaûQ û(Xãà
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaû û(c
+%221void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*G
+E
+%219=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_71a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+0*Ò
+12g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaû û(GÚÔ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaû û(EE
+%219=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_71a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_71aÜ
+É
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaû û(G
+%220"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_71a#<init>()V*G
+E
+%219=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_71a*
+11*Å
+13g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaùQ ù(Xãà
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaù ù(c
+%218void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*G
+E
+%216=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_53a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+12*Ò
+14g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaù ù(GÚÔ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaù ù(EE
+%216=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_53a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_53aÜ
+É
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaù ù(G
+%217"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_53a#<init>()V*G
+E
+%216=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_53a*
+13*Ä
+15g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaúP ú(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaú ú(b
+%215void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%213<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_31*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+14*Ì
+16g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaú ú(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaú ú(DD
+%213<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_31"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_31Ñ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaú ú(F
+%214"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_31#<init>()V*F
+D
+%213<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_31*
+15*ˇ
+17g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaõO õ(VâÜ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaõ õ(a
+%212void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%210;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_41*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+16*È
+18g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaõ õ(EÓÎ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaõ õ(CC
+%210;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_41";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_41Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaõ õ(E
+%211"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_41#<init>()V*E
+C
+%210;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_41*
+17*Ä
+19g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaöP ö(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaö ö(b
+%209void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%207<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_04*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+18*Ë
+120g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaË Ë(EÌÍ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaË Ë(CB
+%57;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_09";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_09Ä
+˝
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaË Ë(E
+%58"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_09#<init>()V*D
+B
+%57;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_09*
+119*Ä
+121g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÁP Á(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÁ Á(b
+%56void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%54<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_42*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+120*Ö
+0 "~
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java≥ ≥(
+implicit return*Ï
+122g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÁ Á(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÁ Á(DC
+%54<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_42"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_42Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÁ Á(F
+%55"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_42#<init>()V*E
+C
+%54<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_42*
+121*Ä
+123g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÊP Ê(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÊ Ê(b
+%53void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%51<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_21*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+122*Ï
+124g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÊ Ê(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÊ Ê(DC
+%51<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_21"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_21Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÊ Ê(F
+%52"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_21#<init>()V*E
+C
+%51<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_21*
+123*ˇ
+125g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÂO Â(VáÑ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÂ Â(a
+%50void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%48;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_05*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+124*Ë
+126g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÂ Â(EÌÍ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÂ Â(CB
+%48;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_05";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_05Ä
+˝
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÂ Â(E
+%49"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_05#<init>()V*D
+B
+%48;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_05*
+125*Ä
+127g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‰P ‰(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‰ ‰(b
+%47void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%45<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_17*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+126*Ï
+128g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‰ ‰(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‰ ‰(DC
+%45<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_17"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_17Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‰ ‰(F
+%46"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_17#<init>()V*E
+C
+%45<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_17*
+127*ˇ
+129g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java„O „(VáÑ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java„ „(a
+%44void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%42;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_42*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+128*Ì
+20g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaö ö(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaö ö(DD
+%207<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_04"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_04Ñ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaö ö(F
+%208"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_04#<init>()V*F
+D
+%207<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_04*
+19*Ä
+21g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaôP ô(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaô ô(b
+%206void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%204<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_75a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+20*Ì
+22g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaô ô(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaô ô(DD
+%204<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_75a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_75aÑ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaô ô(F
+%205"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_75a#<init>()V*F
+D
+%204<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_75a*
+21*Å
+23g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaòQ ò(Xãà
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaò ò(c
+%203void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*G
+E
+%201=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_74a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+22*Ò
+24g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaò ò(GÚÔ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaò ò(EE
+%201=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_74a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_74aÜ
+É
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaò ò(G
+%202"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_74a#<init>()V*G
+E
+%201=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_74a*
+23*ˇ
+25g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaóO ó(VâÜ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaó ó(a
+%200void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%198;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_04*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+24*È
+26g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaó ó(EÓÎ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaó ó(CC
+%198;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_04";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_04Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaó ó(E
+%199"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_04#<init>()V*E
+C
+%198;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_04*
+25*ˇ
+27g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javañO ñ(VâÜ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javañ ñ(a
+%197void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%195;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_15*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+26*È
+28g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javañ ñ(EÓÎ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javañ ñ(CC
+%195;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_15";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_15Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javañ ñ(E
+%196"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_15#<init>()V*E
+C
+%195;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_15*
+27*Ä
+29g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaïP ï(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaï ï(b
+%194void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%192<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_41*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+28*Ë
+130g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java„ „(EÌÍ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java„ „(CB
+%42;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_42";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_42Ä
+˝
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java„ „(E
+%43"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_42#<init>()V*D
+B
+%42;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_42*
+129*Ä
+131g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‚P ‚(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‚ ‚(b
+%41void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%39<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_73a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+130*Ï
+132g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‚ ‚(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‚ ‚(DC
+%39<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_73a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_73aÇ
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‚ ‚(F
+%40"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_73a#<init>()V*E
+C
+%39<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_73a*
+131*Ä
+133g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java·P ·(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java· ·(b
+%38void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%36<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_51a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+132*Ï
+134g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java· ·(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java· ·(DC
+%36<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_51a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_51aÇ
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java· ·(F
+%37"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_51a#<init>()V*E
+C
+%36<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_51a*
+133*Å
+135g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‡Q ‡(XâÜ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‡ ‡(c
+%35void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%33=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_51a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+134*
+136g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‡ ‡(GÒÓ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‡ ‡(ED
+%33=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_51a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_51aÑ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‡ ‡(G
+%34"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_51a#<init>()V*F
+D
+%33=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_51a*
+135*Ä
+137g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaﬂP ﬂ(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaﬂ ﬂ(b
+%32void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%30<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_22a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+136*Ï
+138g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaﬂ ﬂ(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaﬂ ﬂ(DC
+%30<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_22a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_22aÇ
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaﬂ ﬂ(F
+%31"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_22a#<init>()V*E
+C
+%30<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_22a*
+137*ˇ
+139g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaﬁO ﬁ(VáÑ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaﬁ ﬁ(a
+%29void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%27;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_14*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+138*Ì
+30g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaï ï(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaï ï(DD
+%192<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_41"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_41Ñ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaï ï(F
+%193"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_41#<init>()V*F
+D
+%192<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_41*
+29*ˇ
+31g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaîO î(VâÜ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaî î(a
+%191void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%189;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_45*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+30*È
+32g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaî î(EÓÎ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaî î(CC
+%189;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_45";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_45Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaî î(E
+%190"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_45#<init>()V*E
+C
+%189;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_45*
+31*Å
+33g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaìQ ì(Xãà
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaì ì(c
+%188void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*G
+E
+%186=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_54a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+32*Ò
+34g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaì ì(GÚÔ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaì ì(EE
+%186=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_54a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_54aÜ
+É
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaì ì(G
+%187"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_54a#<init>()V*G
+E
+%186=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_54a*
+33*ˇ
+35g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaíO í(VâÜ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaí í(a
+%185void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%183;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_12*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+34*È
+36g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaí í(EÓÎ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaí í(CC
+%183;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_12";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_12Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaí í(E
+%184"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_12#<init>()V*E
+C
+%183;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_12*
+35*Ä
+37g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaëP ë(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaë ë(b
+%182void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%180<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_09*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+36*Ì
+38g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaë ë(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaë ë(DD
+%180<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_09"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_09Ñ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaë ë(F
+%181"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_09#<init>()V*F
+D
+%180<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_09*
+37*Ä
+39g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaêP ê(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaê ê(b
+%179void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%177<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_45*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+38*Ë
+140g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaﬁ ﬁ(EÌÍ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaﬁ ﬁ(CB
+%27;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_14";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_14Ä
+˝
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaﬁ ﬁ(E
+%28"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_14#<init>()V*D
+B
+%27;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_14*
+139*Å
+141g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java›Q ›(XâÜ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java› ›(c
+%26void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%24=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_66a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+140*
+142g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java› ›(GÒÓ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java› ›(ED
+%24=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_66a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_66aÑ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java› ›(G
+%25"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_66a#<init>()V*F
+D
+%24=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_66a*
+141*ˇ
+143g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‹O ‹(VáÑ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‹ ‹(a
+%23void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%21;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_13*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+142*Ë
+144g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‹ ‹(EÌÍ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‹ ‹(CB
+%21;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_13";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_13Ä
+˝
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java‹ ‹(E
+%22"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_13#<init>()V*D
+B
+%21;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_13*
+143*Ä
+145g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java€P €(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java€ €(b
+%20void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%18<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_07*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+144*Ï
+146g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java€ €(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java€ €(DC
+%18<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_07"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_07Ç
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java€ €(F
+%19"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_07#<init>()V*E
+C
+%18<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_07*
+145*Ä
+147g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java⁄P ⁄(WàÖ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java⁄ ⁄(b
+%17void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*E
+C
+%15<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_81a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+146*Ï
+148g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java⁄ ⁄(FÔÏ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java⁄ ⁄(DC
+%15<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_81a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_81aÇ
+ˇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java⁄ ⁄(F
+%16"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_81a#<init>()V*E
+C
+%15<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_81a*
+147*ˇ
+149g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaŸO Ÿ(VáÑ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaŸ Ÿ(a
+%14void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%12;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_16*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+148*Ì
+40g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaê ê(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaê ê(DD
+%177<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_45"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_45Ñ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaê ê(F
+%178"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_45#<init>()V*F
+D
+%177<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_45*
+39*Å
+41g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaèQ è(Xãà
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaè è(c
+%176void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*G
+E
+%174=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_52a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+40*Ò
+42g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaè è(GÚÔ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaè è(EE
+%174=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_52a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_52aÜ
+É
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaè è(G
+%175"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_52a#<init>()V*G
+E
+%174=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_52a*
+41*Å
+43g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaéQ é(Xãà
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaé é(c
+%173void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*G
+E
+%171=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_67a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+42*Ò
+44g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaé é(GÚÔ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaé é(EE
+%171=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_67a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_67aÜ
+É
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaé é(G
+%172"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_67a#<init>()V*G
+E
+%171=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_67a*
+43*Ä
+45g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaçP ç(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaç ç(b
+%170void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%168<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_01*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+44*Ì
+46g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaç ç(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaç ç(DD
+%168<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_01"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_01Ñ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaç ç(F
+%169"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_01#<init>()V*F
+D
+%168<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_01*
+45*Ä
+47g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaåP å(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaå å(b
+%167void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%165<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_53a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+46*Ì
+48g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaå å(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaå å(DD
+%165<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_53a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_53aÑ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaå å(F
+%166"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_53a#<init>()V*F
+D
+%165<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_53a*
+47*Ä
+49g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaãP ã(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaã ã(b
+%164void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%162<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_67a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+48*Ë
+150g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaŸ Ÿ(EÌÍ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaŸ Ÿ(CB
+%12;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_16";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_16Ä
+˝
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaŸ Ÿ(E
+%13"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_16#<init>()V*D
+B
+%12;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_16*
+149*ˇ
+151g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÿP ÿ(WáÑ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÿ ÿ(b
+%11void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%9<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_06*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+150*Í
+152g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÿ ÿ(FÓÎ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÿ ÿ(DB
+%9<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_06"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_06Å
+˛
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÿ ÿ(F
+%10"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_06#<init>()V*D
+B
+%9<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_06*
+151*˝
+153g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java◊O ◊(VÖÇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java◊ ◊(a
+
+%8void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*C
+A
+%6;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_21*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+152*Â
+154g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java◊ ◊(EÏÈ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java◊ ◊(CA
+%6;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_21";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_21˛
+˚
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java◊ ◊(E
+%7"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_21#<init>()V*C
+A
+%6;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_21*
+153*˛
+155g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java÷P ÷(WÜÉ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java÷ ÷(b
+
+%5void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*D
+B
+%3<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_14*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+154*È
+156g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java÷ ÷(FÓÎ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java÷ ÷(DB
+%3<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_14"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_14Ä
+˝
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java÷ ÷(F
+%4"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_14#<init>()V*D
+B
+%3<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_14*
+155*˝
+157g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java’O ’(VÖÇ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java’ ’(a
+
+%2void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*C
+A
+%0;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_02*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+156*Â
+158g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java’ ’(EÏÈ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java’ ’(CA
+%0;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_02";testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_02˛
+˚
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.java’ ’(E
+%1"Etestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_02#<init>()V*C
+A
+%0;testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_02*
+157*Ì
+50g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaã ã(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaã ã(DD
+%162<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_67a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_67aÑ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaã ã(F
+%163"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_67a#<init>()V*F
+D
+%162<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_67a*
+49*Ä
+51g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaäP ä(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaä ä(b
+%161void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%159<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_15*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+50*Ì
+52g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaä ä(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaä ä(DD
+%159<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_15"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_15Ñ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaä ä(F
+%160"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_15#<init>()V*F
+D
+%159<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_15*
+51*Ä
+53g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaâP â(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaâ â(b
+%158void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%156<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_61a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+52*Ì
+54g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaâ â(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaâ â(DD
+%156<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_61a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_61aÑ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaâ â(F
+%157"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_61a#<init>()V*F
+D
+%156<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_61a*
+53*Ä
+55g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaàP à(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaà à(b
+%155void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%153<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_52a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+54*Ì
+56g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaà à(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaà à(DD
+%153<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_52a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_52aÑ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaà à(F
+%154"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_52a#<init>()V*F
+D
+%153<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_52a*
+55*Ä
+57g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaáP á(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaá á(b
+%152void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%150<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_03*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+56*Ì
+58g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaá á(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaá á(DD
+%150<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_03"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_03Ñ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaá á(F
+%151"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_03#<init>()V*F
+D
+%150<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_03*
+57*Ä
+59g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÜP Ü(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÜ Ü(b
+%149void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%147<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_66a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+58*Ì
+60g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÜ Ü(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÜ Ü(DD
+%147<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_66a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_66aÑ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÜ Ü(F
+%148"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_66a#<init>()V*F
+D
+%147<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_66a*
+59*Ä
+61g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÖP Ö(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÖ Ö(b
+%146void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%144<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_71a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+60*Ì
+62g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÖ Ö(FÌ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÖ Ö(DD
+%144<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_71a"<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_71aÑ
+Å
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÖ Ö(F
+%145"Ftestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_71a#<init>()V*F
+D
+%144<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_URLConnection_71a*
+61*Å
+63g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÑQ Ñ(Xãà
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÑ Ñ(c
+%143void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*G
+E
+%141=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_81a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+62*Ò
+64g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÑ Ñ(GÚÔ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÑ Ñ(EE
+%141=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_81a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_81aÜ
+É
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÑ Ñ(G
+%142"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_81a#<init>()V*G
+E
+%141=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_81a*
+63*Å
+65g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÉQ É(Xãà
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÉ É(c
+%140void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*G
+E
+%138=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_22a*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+64*Ò
+66g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÉ É(GÚÔ
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÉ É(EE
+%138=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_22a"=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_22aÜ
+É
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÉ É(G
+%139"Gtestcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_22a#<init>()V*G
+E
+%138=testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_22a*
+65*Ä
+67g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÇP Ç(Wäá
+g
+[/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s02/ServletMain.javaÇ Ç(b
+%137void"Åtestcasesupport.AbstractTestCaseServlet#runTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V*F
+D
+%135<testcases.CWE80_XSS.s02.CWE80_XSS__Servlet_PropertiesFile_10*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse2XrunTest(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)*
+66:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseB'"%
+#testcases.CWE80_XSS.s02.ServletMain

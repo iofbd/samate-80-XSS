@@ -1,0 +1,37 @@
+
+«testcases.CWE80_XSS.s01.CWE80_XSS__Servlet_listen_tcp_21#goodG2B2_source(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Ljava/lang/String;|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_21.javaÍ Í(""4*²
+2|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_21.javaÚ Ú(©
+¦
+|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_21.javaÚ Ú(
+datajava.lang.String"__id*
+""*
+1*³
+3|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_21.javaÔ Ô(ª
+§
+|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_21.javaÔ Ô(
+datajava.lang.String"__id*
+foo*
+1*µ
+4|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_21.javaÏ Ï(©
+¦
+|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_21.javaÏ Ï(
+datajava.lang.String"__id*
+""*
+2
+3*ž
+1|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_21.javaÝ Ý("š
+|
+p/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_listen_tcp_21.javaÝ Ý(
+
+datajava.lang.String:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseB<:
+8testcases.CWE80_XSS.s01.CWE80_XSS__Servlet_listen_tcp_21

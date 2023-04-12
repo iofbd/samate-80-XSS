@@ -1,0 +1,22 @@
+
+²testcases.CWE80_XSS.s01.CWE80_XSS__Servlet_getCookies_Servlet_61b#goodG2BSource(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Ljava/lang/String;ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_61b.java- -("1*—
+1ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_61b.java/ /(±
+®
+ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_61b.java/ /(
+datajava.lang.String"__id*
+""²
+¯
+ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_61b.java2 2(
+datajava.lang.String"__id*
+foo"¢
+ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_61b.java4 4(
+
+datajava.lang.String:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseBEC
+Atestcases.CWE80_XSS.s01.CWE80_XSS__Servlet_getCookies_Servlet_61b

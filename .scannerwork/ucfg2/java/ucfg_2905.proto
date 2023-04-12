@@ -1,0 +1,37 @@
+
+³testcases.CWE80_XSS.s01.CWE80_XSS__Servlet_getCookies_Servlet_22b#goodG2B1Source(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Ljava/lang/String;ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_22b.java4 4( "4*Ã
+2ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_22b.javaB B(²
+¯
+ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_22b.javaB B(
+datajava.lang.String"__id*
+foo*
+1*Â
+3ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_22b.java< <(±
+®
+ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_22b.java< <(
+datajava.lang.String"__id*
+""*
+1*Å
+4ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_22b.java6 6(±
+®
+ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_22b.java6 6(
+datajava.lang.String"__id*
+""*
+2
+3*®
+1ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_22b.javaF F("¢
+ƒ
+y/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getCookies_Servlet_22b.javaF F(
+
+datajava.lang.String:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseBEC
+Atestcases.CWE80_XSS.s01.CWE80_XSS__Servlet_getCookies_Servlet_22b

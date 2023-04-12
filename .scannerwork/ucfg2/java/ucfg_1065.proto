@@ -1,0 +1,37 @@
+
+¾testcases.CWE80_XSS.s01.CWE80_XSS__CWE182_Servlet_getQueryString_Servlet_21#goodG2B1_source(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Ljava/lang/String;Ž
+ƒ/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Servlet_getQueryString_Servlet_21.javae e(""4*Ù
+2Ž
+ƒ/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Servlet_getQueryString_Servlet_21.javas s(½
+º
+Ž
+ƒ/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Servlet_getQueryString_Servlet_21.javas s(
+datajava.lang.String"__id*
+foo*
+1*Ø
+3Ž
+ƒ/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Servlet_getQueryString_Servlet_21.javam m(¼
+¹
+Ž
+ƒ/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Servlet_getQueryString_Servlet_21.javam m(
+datajava.lang.String"__id*
+""*
+1*Û
+4Ž
+ƒ/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Servlet_getQueryString_Servlet_21.javag g(¼
+¹
+Ž
+ƒ/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Servlet_getQueryString_Servlet_21.javag g(
+datajava.lang.String"__id*
+""*
+2
+3*Ä
+1Ž
+ƒ/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Servlet_getQueryString_Servlet_21.javaw w("­
+Ž
+ƒ/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Servlet_getQueryString_Servlet_21.javaw w(
+
+datajava.lang.String:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseBOM
+Ktestcases.CWE80_XSS.s01.CWE80_XSS__CWE182_Servlet_getQueryString_Servlet_21

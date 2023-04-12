@@ -1,0 +1,22 @@
+
+³testcases.CWE80_XSS.s01.CWE80_XSS__Servlet_getParameter_Servlet_42#goodG2BSource(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Ljava/lang/String;„
+z/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getParameter_Servlet_42.java/ /( "1*›
+1„
+z/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getParameter_Servlet_42.java1 1(²
+¯
+„
+z/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getParameter_Servlet_42.java1 1(
+datajava.lang.String"__id*
+""³
+°
+„
+z/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getParameter_Servlet_42.java4 4(
+datajava.lang.String"__id*
+foo"£
+„
+z/Users/munawar/Desktop/testspace/samate-80-XSS/src/testcases/CWE80_XSS/s01/CWE80_XSS__Servlet_getParameter_Servlet_42.java6 6(
+
+datajava.lang.String:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseBFD
+Btestcases.CWE80_XSS.s01.CWE80_XSS__Servlet_getParameter_Servlet_42
