@@ -14,6 +14,7 @@ Template File: sources-sink-10.tmpl.java
 * */
 
 package testcases.CWE80_XSS.s01;
+import io.github.pixee.security.BoundedLineReader;
 import testcasesupport.*;
 
 import javax.servlet.http.*;
@@ -50,7 +51,7 @@ public class CWE80_XSS__CWE182_Servlet_listen_tcp_10 extends AbstractTestCaseSer
                     readerInputStream = new InputStreamReader(socket.getInputStream(), "UTF-8");
                     readerBuffered = new BufferedReader(readerInputStream);
                     /* POTENTIAL FLAW: Read data using a listening tcp connection */
-                    data = readerBuffered.readLine();
+                    data = BoundedLineReader.readLine(readerBuffered, 5_000_000);
                 }
                 catch (IOException exceptIO)
                 {
