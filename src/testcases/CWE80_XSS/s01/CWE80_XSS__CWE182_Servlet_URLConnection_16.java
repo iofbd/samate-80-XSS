@@ -14,6 +14,7 @@ Template File: sources-sink-16.tmpl.java
 * */
 
 package testcases.CWE80_XSS.s01;
+import io.github.pixee.security.BoundedLineReader;
 import testcasesupport.*;
 
 import javax.servlet.http.*;
@@ -48,7 +49,7 @@ public class CWE80_XSS__CWE182_Servlet_URLConnection_16 extends AbstractTestCase
                     /* POTENTIAL FLAW: Read data from a web server with URLConnection */
                     /* This will be reading the first "line" of the response body,
                      * which could be very long if there are no newlines in the HTML */
-                    data = readerBuffered.readLine();
+                    data = BoundedLineReader.readLine(readerBuffered, 5_000_000);
                 }
                 catch (IOException exceptIO)
                 {

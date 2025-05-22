@@ -15,6 +15,7 @@ Template File: sources-sink-74a.tmpl.java
  * */
 
 package testcases.CWE80_XSS.s01;
+import io.github.pixee.security.BoundedLineReader;
 import testcasesupport.*;
 import java.util.HashMap;
 
@@ -52,7 +53,7 @@ public class CWE80_XSS__Servlet_connect_tcp_74a extends AbstractTestCaseServlet
                 readerBuffered = new BufferedReader(readerInputStream);
 
                 /* POTENTIAL FLAW: Read data using an outbound tcp connection */
-                data = readerBuffered.readLine();
+                data = BoundedLineReader.readLine(readerBuffered, 5_000_000);
             }
             catch (IOException exceptIO)
             {
